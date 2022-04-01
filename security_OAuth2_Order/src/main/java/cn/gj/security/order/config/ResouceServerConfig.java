@@ -12,10 +12,7 @@ import org.springframework.security.oauth2.provider.token.RemoteTokenServices;
 import org.springframework.security.oauth2.provider.token.ResourceServerTokenServices;
 
 /**
- * @description:
- * @author:
- * @date: 2022-03-31 11:31
- * @version: 1.0
+ *
  **/
 @Configuration
 @EnableResourceServer
